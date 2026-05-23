@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Polish Language Tags",
+    "pattern": "/\\b(polish|polski|polskie|lektor|lektorpl|dubbingpl|dubbpl|dubpl|pldub|plsub|plsubbed|subbedpl|subpl|pol|napisypl|napisy|napiproject|pl_1080p_web)\\b/i",
+    "score": 0
+  },
+  {
+    "name": "Polish Sites & Trackers",
+    "pattern": "/(polishtorrent\\.top|torrentleech\\.pl|polskie-torrenty|best-torrents|cool-torents|devil-torrents|electro-torrent|ex-torrenty|shadows-torrents|xtorrenty|torrenty|torrentmaniak|topfilmyfilmweb)/i",
+    "score": 0
+  },
+  {
+    "name": "Polish Content Keywords",
+    "pattern": "/\\b(kolekcja|odcinek|odc(?:inek)?|paczka|sezon|wersja)\\b/i",
+    "score": 0
+  },
+  {
+    "name": "Polish Release Groups (Strong)",
+    "pattern": "/\\b(3d11|agusiq|al3x|bigbbs|dabrjarek|fiona9|marcin0313|miniserial|nicollubin|ptt|sfpi|sharpe|superseed|syntezator|tds|tfsh|toalien|vantablack|wilu|wilu75|zbyszek|rekonstrukcja|dok\\.torrek|elladajarek|lufen|maksim80|marjos83|spajk85|sy5ka|taboon1|tamir|tokar86a|wasik|wosiu|joanna668|kamil11124|kamil445|gamer158|lysol1|pcela|pasha|potroks|presa|raven|sav|vase|wzrtyk|xmatr1x|zyvela|ravcod)\\b/i",
+    "score": 0
+  },
+  {
+    "name": "Polish Release Tags A",
+    "pattern": "/(?:^|[\\s._\\-\\[\\(])(4TL|A4O|ABM|AdL|AFO|AL3X|alE13|Alusia|AMOK|ANONiM|APPGRoup|AS76|AZQ|azjatycki|B2RPL|B89|BEBLU|BiDA|BiRD|BODZiO|BP007|BRX|BRY|CAMBiO|CHOPiN|ChrisVPS|CiNEMAET|CinemaPolish|CMCT|CODER|CoLO|CRU|CX|CZRG|d11|DeiX|DENDA|devil-bad|DReaM|DSiTE|DVDSEED|DYZIO|DZiDEK|eend|EMiS|EnTeR1973|Esperanza|ETeam|FARNA|Feld|FileTracker|FLAME|Flipu|FOX|FPL|FRDS|FT|GameToonHD|GarRipzone|GhN|GHW|GLiMMER|GR4PE|GUN|H3Q|HDBEE|HEN|HMDb|HT|inTGrity|Izyk|J25|J60|Japhson|JASKIER|K|K041|K12|K37|K8|K83|Kbuso)(?:[\\s._\\-\\]\\)]|$)/",
+    "score": 0
+  },
+  {
+    "name": "Polish Release Tags B",
+    "pattern": "/(?:^|[\\s._\\-\\[\\(])(KDE|KIFR|KiKO|KilKr|KiT|KLiO|KPFR|KRT|KSQ|LEX|LiMiT|LLA|LLO|LTN|LTS|M56|M80|MAXiM|MAXX|MiNS|Mixio|MORS|MR|MR1|N0B0DY|N0L4|NINE|NitroTeam|NN|NoGroup|NoGrp|NoNaNo|NoQ|ODiSON|OldT|OXYGEN|OzW|P2P|PdlG|PIO|PiratesZone|PIXELPOLICE|PIXI|PLHD|ProPLTV|PSiG|PSOTNIK|PSYCHD|PTRG|PTTrG|R22|R2D2|R68|Ralf|RAVoD|Retro_Ekipa|RobSil|RX|S56|SK13|SLiM|SLH|SnOoP|Spedboy|Speedboy|StarLord|StarLordX|SYRIX|TFSH|TiTaNiUM|TL|ToP2P|TV4TG|WEB4TG|WiZARDS|XTE|XuploaD|Zet|ZLOCiUTKi|ZT|zyl|-OK|-FT)(?:[\\s._\\-\\]\\)]|$)/",
+    "score": 0
+  },
+  {
+    "name": "Polish Special Patterns",
+    "pattern": "/(Rip[\\s._-]+by[\\s._-]+RaptCat|ekipa[\\s._-]+tnt|[ąćęłńóśźż])/i",
+    "score": 0
+  }
+]
